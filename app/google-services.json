@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811153551564",
+    "project_id": "shat-with-me",
+    "storage_bucket": "shat-with-me.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811153551564:android:b37e2a29a7568d938dd269",
+        "android_client_info": {
+          "package_name": "be.biwigi.shat_with_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSqMg8-srt-MMbYt3hWz2XsA6hnbv1qB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
